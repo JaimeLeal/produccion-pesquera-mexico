@@ -1,0 +1,18 @@
+body {
+background-color: white;
+}
+
+.content-wrapper {
+  background-color: white;
+}
+
+.title {
+font-size:25px;
+font-weight: bold;
+}
+
+.caption {
+font-size:20px;
+font-weight: bold;
+text-align: center;
+}
